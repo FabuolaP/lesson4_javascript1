@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 15, 2018
 
 ### Student Name:  
-(First and Last Name)
+Fabuola Pierre
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Updating an expense calculator to include a more thorough calculation of everyday expenses.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://fabuolap.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the document.getElementById() method to access nodes.
+2. How to use the parseFloat() method to convert a String to a Float.
+3. How to use the toFixed() method to ensure a specified number of digits appear after the decimal place for the value.
+                 
 
 
 
